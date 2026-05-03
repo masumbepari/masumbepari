@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" height="180"/>
 
-<h1>Masum Bepari</h1>
+<h1>MASUM BEPARI</h1>
 <p><strong>Flutter Developer • Scalable Mobile Applications • Clean Architecture</strong></p>
 
 <p>
@@ -13,21 +13,16 @@ not just UI prototypes.
 
 <br>
 
-<a href="https://www.linkedin.com/in/masum-bepari/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
+ <a href="https://www.linkedin.com/in/masum-bepari/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=MASUM%20BEPARI&logo=linkedin&label=LinkedIn&color=808080&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 <a href="https://leetcode.com/u/masumbepari/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/masumbepari" target="_blank">
+<!-- <a href="https://www.codechef.com/users/masumbepari" target="_blank">
   <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+</a> -->
 
 </div>
 
