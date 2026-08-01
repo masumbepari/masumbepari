@@ -52,11 +52,18 @@ I prioritize **fundamentals, consistency, and long-term scalability** over trend
 
 ## 🧠 Project Highlights
 
-### 📱 Scalable E-Commerce App
-- Built using Flutter with Firebase backend (Auth, Firestore, Storage)  
-- Integrated REST APIs for product & order management  
-- Applied Clean Architecture for modular and testable code  
-- Optimized performance by minimizing unnecessary widget rebuilds  
+### Kakeibo - Expense Tracker
+A personal finance app for managing expenses and budgets.
+ 
+ ## Features
+- Expense tracking
+- Budget planning
+- Spending insights
+- Savings goals
+- Monthly reflection
+ ## Download:
+ Get on playstore:
+[https://play.google.com/store/apps/details?id=com.masumdev.kakeibo ](https://play.google.com/store/apps/details?id=com.masumdev.kakeibo) 
 
 ---
 
